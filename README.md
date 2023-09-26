@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Arnau Solé</h1>
 <h3 align="center">A passionate computer engineering student from Mexico</h3>
+
 ###arns115
--Computer Engineering Student at UNAM(National Autonomous University of Mexico, Engineering)
--Mexico City, Mexico
+-Computer Engineering Student at UNAM(National Autonomous University of Mexico, Engineering)\n
+-Mexico City, Mexico\n
 - 18 years old
 - Competitive Programmer
 - Aspiring Software Engineer
