@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arnau Solé</h1>
 <h3 align="center">A passionate computer engineering student from Mexico</h3>
-<h3 align="left">arns115):</h3>
+<h3 align="left">arns115</h3>
 <h3 align="left">Computer Engineering Student at UNAM(National Autonomous University of Mexico, Engineering</h3>
 <h3 align="left">Mexico City, Mexico</h3>
 <h3 align="left">Competitive Programmer</h3>
