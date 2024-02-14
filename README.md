@@ -1,5 +1,4 @@
 # Hi, I'm Arnau Solé
-- arns115
 - A passionate computer engineering student from Mexico
 - Computer Engineering Student at UNAM (National Autonomous University of Mexico)
 - Competitive Programmer
